@@ -1,4 +1,7 @@
-# R script for customer purchase data segmentation
+# R script for customer purchase data segmentation.
+# This script is based on examples outlined at 
+# http://analyzecore.com/2015/02/16/customer-segmentation-lifecycle-grids-with-r/
+# but with different data. 
 
 library(dplyr)
 library(reshape2)
